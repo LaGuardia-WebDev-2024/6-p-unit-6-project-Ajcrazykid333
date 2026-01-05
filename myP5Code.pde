@@ -7,14 +7,39 @@ void setup() {
 
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
-  fill(255,255,255);
+  fill(255,255,255, 0);
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
 
-  
+  fill(200,0,0)
+ ellipse(200,200,400,400) 
+ellipse(100,110,150,100)
+fill(74, 92, 163)
 
+  ellipse(296,110,150,100)
+  fill(11, 235, 32)
+  ellipse(100,110,110,100)
+  fill(235, 44, 145)
+  ellipse(296,110,110,100)
+  fill(213, 16, 240)
+ellipse(177,100,1,200)
+fill
+ellipse(222,100,1,200)
+ellipse(100,100,70,80)
+ellipse(300,100,70,80)
+fill
+ellipse(200,100,50,1)
+ellipse(200,130,50,1)
+ellipse(200,70,50,1)
+ellipse(200,40,50,1)
+ellipse(200,160,50,1)
+ellipse(200,300,110,1)
+arc(200,300,110,60,radians(0),radians(190))
+arc(200,300,113,90,radians(180),radians(360))
+
+
+triangle(200,180,138,223,257,227)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
